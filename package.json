@@ -1,0 +1,22 @@
+{
+  "name": "minimum-maximum-function",
+  "version": "1.0.0",
+  "description": "A function to find the maximum and minimum elements of an array.",
+  "main": "app/library.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adedapopaul/self-learning-clinic-day0.git"
+  },
+  "author": "Dapo Aderemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adedapopaul/self-learning-clinic-day0/issues"
+  },
+  "homepage": "https://github.com/adedapopaul/self-learning-clinic-day0#readme",
+  "dependencies": {
+     "jasmine": "^2.5.2",
+     }
+}
