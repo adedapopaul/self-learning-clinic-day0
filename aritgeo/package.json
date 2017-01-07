@@ -1,0 +1,25 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "a function called *aritGeo* that takes arguement as an array and checks if the array is arithmetic, geometric, neither",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adedapopaul/self-learning-clinic-day0.git"
+  },
+  "author": "Dapo Aderemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adedapopaul/self-learning-clinic-day0/issues"
+  },
+  "homepage": "https://github.com/adedapopaul/self-learning-clinic-day0#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
